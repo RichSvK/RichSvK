@@ -14,11 +14,12 @@ Currently, I'm a **learner** at Apple Developer Academy.
 **Languages:**  
 <p align="left">
   <a href="https://go.dev/" target="_blank"><img src="https://go.dev/images/go-logo-white.svg" alt="Go" width="40" height="40"/></a>
-  <a href="https://www.learn-c.org/" target="_blank"><img src="https://www.learn-c.org/static/img/favicons/learn-c.org.ico" alt="C" width="40" height="40"/></a>
   <a href="https://www.java.com/en/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40"/></a>
+  <a href="https://www.java.com/en/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40"/></a>
+  <a href="https://www.learn-c.org/" target="_blank"><img src="https://www.learn-c.org/static/img/favicons/learn-c.org.ico" alt="C" width="40" height="40"/></a>
 </p>
 
-**Databases:**  
+**DBMS:**  
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png" alt="MySQL" width="45" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="40" height="40"/></a>
@@ -33,6 +34,7 @@ Currently, I'm a **learner** at Apple Developer Academy.
 **Frameworks:**  
 <p align="left">
   <a href="https://pkg.go.dev/github.com/gin-gonic/gin" target="_blank"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="40" height="60"/></a>
+  <a href="https://pkg.go.dev/github.com/gin-gonic/gin](https://gofiber.io" target="_blank"><img src="https://gofiber.io/assets/images/logo.svg" alt="Fiber" width="40" height="60"/></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="40" height="60"/></a>
   <a href="https://laravel.com/" target="_blank"><img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="60"/></a>
 </p>
