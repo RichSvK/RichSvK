@@ -15,7 +15,6 @@ Currently, I'm a **learner** at Apple Developer Academy.
 <p align="left">
   <a href="https://go.dev/" target="_blank"><img src="https://go.dev/images/go-logo-white.svg" alt="Go" width="40" height="40"/></a>
   <a href="https://www.java.com/en/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.java.com/en/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40"/></a>
   <a href="https://www.learn-c.org/" target="_blank"><img src="https://www.learn-c.org/static/img/favicons/learn-c.org.ico" alt="C" width="40" height="40"/></a>
 </p>
 
@@ -23,6 +22,8 @@ Currently, I'm a **learner** at Apple Developer Academy.
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png" alt="MySQL" width="45" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="http://mongodb.com/" target="_blank"><img src="https://webimages.mongodb.com/_com_assets/cms/kuyj3d95v5vbmm2f4-horizontal_white.svg?auto=format%252Ccompress" alt="MongoDB" width="40" height="40"/></a>
+    <a href="https://redis.io/" target="_blank"><img src="https://redis.io/wp-content/uploads/2024/04/Logotype.svg?auto=webp&quality=85,75&width=120" alt="Redis" width="40" height="40"/></a>
 </p>
 
 **Tools**  
