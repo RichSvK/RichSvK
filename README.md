@@ -35,11 +35,10 @@ Currently, I'm a **learner** at Apple Developer Academy.
 **Frameworks:**  
 <p align="left">
   <a href="https://pkg.go.dev/github.com/gin-gonic/gin" target="_blank"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="40" height="60"/></a>
-  <a href="https://pkg.go.dev/github.com/gin-gonic/gin](https://gofiber.io" target="_blank"><img src="https://gofiber.io/assets/images/logo.svg" alt="Fiber" width="40" height="60"/></a>
+  <a href="https://gofiber.io/" target="_blank"><img src="https://gofiber.io/img/logo-dark.svg" alt="Fiber" width="40" height="60"/></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="40" height="60"/></a>
   <a href="https://laravel.com/" target="_blank"><img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="60"/></a>
 </p>
-
 ---
 
 ### 📊 GitHub Stats
