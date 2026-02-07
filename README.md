@@ -39,10 +39,3 @@ Currently, I'm a **learner** at Apple Developer Academy.
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="40" height="60"/></a>
   <a href="https://laravel.com/" target="_blank"><img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="60"/></a>
 </p>
----
-
-### 📊 GitHub Stats
-
-<a href="https://github.com/richsvk" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richsvk&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages"/>
-</a>
